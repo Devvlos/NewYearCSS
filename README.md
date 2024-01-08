@@ -1,5 +1,5 @@
 <h1 align="center">NewYearCSS</h1>
-<h3 align="center">One guy told me poor person cant but NewYearCSS Book Which Is True But I Can Code So I Made Using HTML CSS & JS</h3>
+<h3 align="center">Cool New Year 2024 Greet Using HTML, CSS With Cool Effects Using A Button.</h3>
 
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Devvlos/NewYearCSS)
